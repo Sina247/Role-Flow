@@ -7,7 +7,7 @@ Admin, Doctor, Patient and Guest (public section). This app includes multilingua
 
 ## 🚀 Features
 
-- 👥 **Role Management** : Full support for Admin, Doctor, Patient and Guest roles with dedicated layouts and pages.
+- 👥 **Role Management** : Full support for Admin, Doctor, Patient and Guest roles with dedicated layouts.
 - 🌗 **Dark and Light Themes** : Seamless theme toggling with Tailwind CSS.
 - 🔐 **Secure Authentication** : Built with NextAuth and route protection based on user roles.
 - ⚡ **Loading States and Transitions** : Smooth loading indicators for better UX.
