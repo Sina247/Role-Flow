@@ -1,7 +1,7 @@
 # 🌐 Role Flow
 
-A modern, professional web application with a feature-based structure supporting four user roles:  
-Admin, Doctor, Patient and Guest (public section). This app includes multilingual support, dark/light themes, secure authentication and SEO optimization.
+A modern, professional web application with a feature-based structure supporting four user roles :
+Admin, Doctor, Patient and Guest. This app includes multilingual support, dark/light themes, secure authentication and SEO optimization.
 
 ---
 
