@@ -13,5 +13,4 @@ Admin, Doctor, Patient and Guest (public section). This app includes multilingua
 - ⚡ **Loading States and Transitions** : Smooth loading indicators for better UX.
 - 📱 **Responsive Design** : Optimized for mobile and desktop devices.
 - 🛠️ **Production Grade Structure** : Feature-based architecture for scalable and large projects.
-- ⚙️ **Modern Tech Stack** : Next.js, TypeScript, Tailwind CSS, Redux Toolkit, React Hook Form, Zod, NextAuth and React hooks.
 - 🔍 **SEO Optimized** : Fully optimized for search engines.
